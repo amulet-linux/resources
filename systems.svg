@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--Phoronix Test Suite v6.2.1 [ http://www.phoronix-test-suite.com/ ]-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewbox="0 0 701 537"
+   width="687.12726"
+   height="314.47058"
+   preserveAspectRatio="xMinYMin meet"
+   id="svg3920"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="systems.svg"
+   style="font-family:sans-serif, droid-sans, helvetica, verdana, tahoma">
+  <metadata
+     id="metadata4172">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4170" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="720"
+     id="namedview4168"
+     showgrid="false"
+     inkscape:zoom="1.2023841"
+     inkscape:cx="323.91493"
+     inkscape:cy="144.68986"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3920"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="-295.33685,-189.55168"
+       orientation="1,0"
+       id="guide5862" />
+  </sodipodi:namedview>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:3.891114"
+     d="m 85.839221,27.788161 0,8.722879 m -4.881806,-15.507341 0,15.507341 m -4.881806,-27.1378466 0,27.1378466 m -22.456311,-1.938418 12.204517,0 c 2.426532,0 4.393625,-1.952683 4.393625,-4.361439 0,-2.408757 -1.967093,-4.36144 -4.393625,-4.36144 l -7.810891,0 c -2.426532,0 -4.393626,-1.952684 -4.393626,-4.36144 0,-2.408756 1.967094,-4.36144 4.393626,-4.36144 l 12.204516,0 m -20.503587,4.846045 -10.739975,0 m 10.739975,12.599714 -1.952722,0 c -4.853066,0 -8.787253,-3.905366 -8.787253,-8.722879 l 0,-19.3841756 m -23.432672,38.7683516 0,-19.384176 c 0,-4.817514 3.934187,-8.72288 8.787253,-8.72288 4.853065,0 8.787252,3.905366 8.787252,8.72288 0,4.817513 -3.934187,8.722879 -8.787252,8.722879 l -8.787253,0"
+     id="path3926" />
+  <line
+     style="stroke:#bababa;stroke-width:309.34356689;stroke-dasharray:96.30507118, 96.30507118"
+     x1="104.39008"
+     y1="157.66214"
+     x2="684.34875"
+     y2="157.66214"
+     id="line3928" />
+  <line
+     style="stroke:#949494;stroke-width:681.91772461;stroke-dasharray:14.59167745, 14.59167745"
+     x1="342.62222"
+     y1="50.07996"
+     x2="342.62222"
+     y2="311.76636"
+     id="line3930" />
+  <line
+     style="stroke:#757575;stroke-width:309.34356689;stroke-dasharray:0.97277849, 95.33229269"
+     x1="104.39008"
+     y1="157.66214"
+     x2="684.34875"
+     y2="157.66214"
+     id="line3932" />
+  <line
+     style="stroke:#757575;stroke-width:0.9727785"
+     x1="0.89578629"
+     y1="3.5579405"
+     x2="683.37231"
+     y2="3.5579405"
+     id="line3938" />
+  <g
+     style="font-weight:bold;font-size:8px;text-anchor:end;fill:#065695"
+     font-size="8"
+     font-weight="bold"
+     id="g3940"
+     transform="matrix(0.97636132,0,0,0.96920882,-0.08057483,-20.67228)">
+    <text
+       style="fill:#065695"
+       x="105"
+       y="84"
+       id="text3942">Processor</text>
+    <text
+       style="fill:#065695"
+       x="105"
+       y="99"
+       id="text3944">Motherboard</text>
+    <text
+       style="fill:#065695"
+       x="105"
+       y="114"
+       id="text3946">Chipset</text>
+    <text
+       style="fill:#065695"
+       x="105"
+       y="129"
+       id="text3948">Memory</text>
+    <text
+       style="fill:#065695"
+       x="105"
+       y="144"
+       id="text3950">Disk</text>
+    <text
+       style="fill:#065695"
+       x="105"
+       y="159"
+       id="text3952">Graphics</text>
+    <text
+       style="fill:#065695"
+       x="105"
+       y="174"
+       id="text3954">Audio</text>
+    <text
+       style="fill:#065695"
+       x="105"
+       y="189"
+       id="text3956">Monitor</text>
+    <text
+       style="fill:#065695"
+       x="105"
+       y="204"
+       id="text3958">Network</text>
+    <text
+       style="fill:#065695"
+       x="105"
+       y="219"
+       id="text3960">OS</text>
+    <text
+       style="fill:#065695"
+       x="105"
+       y="234"
+       id="text3962">Kernel</text>
+    <text
+       style="fill:#065695"
+       x="105"
+       y="249"
+       id="text3964">Display Server</text>
+    <text
+       style="fill:#065695"
+       x="105"
+       y="264"
+       id="text3966">Display Driver</text>
+    <text
+       style="fill:#065695"
+       x="105"
+       y="279"
+       id="text3968">OpenGL</text>
+    <text
+       style="fill:#065695"
+       x="105"
+       y="294"
+       id="text3970">Compiler</text>
+    <text
+       style="fill:#065695"
+       x="105"
+       y="309"
+       id="text3972">File-System</text>
+    <text
+       style="fill:#065695"
+       x="105"
+       y="324"
+       id="text3974">Screen Resolution</text>
+    <text
+       style="fill:#065695"
+       x="105"
+       y="339"
+       id="text3976">Desktop</text>
+  </g>
+  <g
+     style="font-weight:bold;font-size:8px;text-anchor:middle;fill:#065695"
+     font-size="8"
+     font-weight="bold"
+     dominant-baseline="text-before-edge"
+     id="g3978"
+     transform="matrix(0.97636132,0,0,0.96920882,-0.08057483,-20.67228)">
+    <text
+       x="156.5"
+       y="49"
+       id="text3980">TOSHIBA MQ01ABD1</text>
+    <text
+       x="255.5"
+       y="49"
+       id="text3982">vfat-fs-1</text>
+    <text
+       x="354.5"
+       y="49"
+       id="text3984">jfs-fs</text>
+    <text
+       x="453.5"
+       y="49"
+       id="text3986">test2</text>
+    <text
+       x="552.5"
+       y="49"
+       id="text3988">free-fs-mark</text>
+    <text
+       x="651.5"
+       y="49"
+       id="text3990">ext2-fs</text>
+  </g>
+  <g
+     id="g3992"
+     transform="matrix(0.97636132,0,0,0.96920882,-0.08057483,-20.67228)">
+    <rect
+       style="fill:#949494"
+       x="107"
+       y="74"
+       width="594"
+       height="15"
+       id="rect3994" />
+    <rect
+       style="fill:#bababa"
+       x="107"
+       y="89"
+       width="594"
+       height="15"
+       id="rect3996" />
+    <rect
+       style="fill:#949494"
+       x="107"
+       y="104"
+       width="594"
+       height="15"
+       id="rect3998" />
+    <rect
+       style="fill:#bababa"
+       x="107"
+       y="119"
+       width="594"
+       height="15"
+       id="rect4000" />
+    <rect
+       style="fill:#949494"
+       x="107"
+       y="134"
+       width="594"
+       height="15"
+       id="rect4002" />
+    <rect
+       style="fill:#bababa"
+       x="107"
+       y="149"
+       width="594"
+       height="15"
+       id="rect4004" />
+    <rect
+       style="fill:#949494"
+       x="107"
+       y="164"
+       width="594"
+       height="15"
+       id="rect4006" />
+    <rect
+       style="fill:#949494"
+       x="107"
+       y="194"
+       width="594"
+       height="15"
+       id="rect4008" />
+    <rect
+       style="fill:#bababa"
+       x="107"
+       y="209"
+       width="594"
+       height="15"
+       id="rect4010" />
+    <rect
+       style="fill:#949494"
+       x="107"
+       y="224"
+       width="594"
+       height="15"
+       id="rect4012" />
+    <rect
+       style="fill:#bababa"
+       x="107"
+       y="239"
+       width="594"
+       height="15"
+       id="rect4014" />
+    <rect
+       style="fill:#949494"
+       x="107"
+       y="254"
+       width="594"
+       height="15"
+       id="rect4016" />
+    <rect
+       style="fill:#bababa"
+       x="107"
+       y="269"
+       width="594"
+       height="15"
+       id="rect4018" />
+    <rect
+       style="fill:#949494"
+       x="107"
+       y="284"
+       width="594"
+       height="15"
+       id="rect4020" />
+    <rect
+       style="fill:#949494"
+       x="107"
+       y="314"
+       width="594"
+       height="15"
+       id="rect4022" />
+    <rect
+       style="fill:#bababa"
+       x="503"
+       y="179"
+       width="198"
+       height="15"
+       id="rect4024" />
+  </g>
+  <g
+     style="font-size:8px;text-anchor:middle"
+     font-size="8"
+     id="g4026"
+     transform="matrix(0.97636132,0,0,0.96920882,-0.08057483,-20.67228)">
+    <a
+       xlink:href="http://openbenchmarking.org/s/Intel Core i7-3770 @ 3.90GHz (8 Cores)"
+       xlink:show="new"
+       id="a4028">
+      <text
+         style="fill:#065695"
+         x="404"
+         y="85"
+         id="text4030">Intel Core i7-3770 @ 3.90GHz (8 Cores)</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/ASRock H61M-VG3"
+       xlink:show="new"
+       id="a4032">
+      <text
+         style="fill:#065695"
+         x="404"
+         y="100"
+         id="text4034">ASRock H61M-VG3</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/Intel Xeon E3-1200 v2/3rd"
+       xlink:show="new"
+       id="a4036">
+      <text
+         style="fill:#065695"
+         x="404"
+         y="115"
+         id="text4038">Intel Xeon E3-1200 v2/3rd</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/16384MB"
+       xlink:show="new"
+       id="a4040">
+      <text
+         style="fill:#065695"
+         x="404"
+         y="130"
+         id="text4042">16384MB</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/1000GB TOSHIBA MQ01ABD1 + 1000GB Western Digital WD1002FBYS-1 + 160GB Western Digital WD1600BEVT-7"
+       xlink:show="new"
+       id="a4044">
+      <text
+         style="fill:#065695"
+         x="404"
+         y="145"
+         id="text4046">1000GB TOSHIBA MQ01ABD1 + 1000GB Western Digital WD1002FBYS-1 + 160GB Western Digital WD1600BEVT-7</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/Intel HD 4000 (1150MHz)"
+       xlink:show="new"
+       id="a4048">
+      <text
+         style="fill:#065695"
+         x="404"
+         y="160"
+         id="text4050">Intel HD 4000 (1150MHz)</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/Intel 6 /C200"
+       xlink:show="new"
+       id="a4052">
+      <text
+         style="fill:#065695"
+         x="404"
+         y="175"
+         id="text4054">Intel 6 /C200</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/HP w1907"
+       xlink:show="new"
+       id="a4056">
+      <text
+         style="fill:#065695"
+         x="156.5"
+         y="190"
+         id="text4058">HP w1907</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/Realtek RTL8111/8168/8411"
+       xlink:show="new"
+       id="a4060">
+      <text
+         style="fill:#065695"
+         x="404"
+         y="205"
+         id="text4062">Realtek RTL8111/8168/8411</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/Gentoo 2.2"
+       xlink:show="new"
+       id="a4064">
+      <text
+         style="fill:#065695"
+         x="404"
+         y="220"
+         id="text4066">Gentoo 2.2</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/3.18.25-gentoo-r1linux-chara (x86_64)"
+       xlink:show="new"
+       id="a4068">
+      <text
+         style="fill:#065695"
+         x="404"
+         y="235"
+         id="text4070">3.18.25-gentoo-r1linux-chara (x86_64)</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/X Server 1.17.4"
+       xlink:show="new"
+       id="a4072">
+      <text
+         style="fill:#065695"
+         x="404"
+         y="250"
+         id="text4074">X Server 1.17.4</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/intel 2.99.917"
+       xlink:show="new"
+       id="a4076">
+      <text
+         style="fill:#065695"
+         x="404"
+         y="265"
+         id="text4078">intel 2.99.917</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/3.3 Mesa 11.0.6"
+       xlink:show="new"
+       id="a4080">
+      <text
+         style="fill:#065695"
+         x="404"
+         y="280"
+         id="text4082">3.3 Mesa 11.0.6</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/GCC 4.9.3 + LLVM 3.5.0"
+       xlink:show="new"
+       id="a4084">
+      <text
+         style="fill:#065695"
+         x="404"
+         y="295"
+         id="text4086">GCC 4.9.3 + LLVM 3.5.0</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/f2fs"
+       xlink:show="new"
+       id="a4088">
+      <text
+         style="fill:#065695"
+         x="156.5"
+         y="310"
+         id="text4090">f2fs</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/1440x900"
+       xlink:show="new"
+       id="a4092">
+      <text
+         style="fill:#065695"
+         x="404"
+         y="325"
+         id="text4094">1440x900</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/msdos"
+       xlink:show="new"
+       id="a4096">
+      <text
+         style="fill:#065695"
+         x="255.5"
+         y="310"
+         id="text4098">msdos</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/HP w1907"
+       xlink:show="new"
+       id="a4100">
+      <text
+         style="fill:#065695"
+         x="354.5"
+         y="190"
+         id="text4102">HP w1907</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/jfs"
+       xlink:show="new"
+       id="a4104">
+      <text
+         style="fill:#065695"
+         x="354.5"
+         y="310"
+         id="text4106">jfs</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/KDE 4.14.16"
+       xlink:show="new"
+       id="a4108">
+      <text
+         style="fill:#065695"
+         x="453.5"
+         y="340"
+         id="text4110">KDE 4.14.16</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/xfs"
+       xlink:show="new"
+       id="a4112">
+      <text
+         style="fill:#065695"
+         x="453.5"
+         y="310"
+         id="text4114">xfs</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/HP w1907"
+       xlink:show="new"
+       id="a4116">
+      <text
+         style="fill:#005a00"
+         x="602"
+         y="190"
+         id="text4118">HP w1907</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/tmpfs"
+       xlink:show="new"
+       id="a4120">
+      <text
+         style="fill:#065695"
+         x="552.5"
+         y="310"
+         id="text4122">tmpfs</text>
+    </a>
+    <a
+       xlink:href="http://openbenchmarking.org/s/ext4"
+       xlink:show="new"
+       id="a4124">
+      <text
+         style="fill:#065695"
+         x="651.5"
+         y="310"
+         id="text4126">ext4</text>
+    </a>
+  </g>
+  <line
+     style="stroke:#949494;stroke-width:681.91772461;stroke-dasharray:0.97277849, 13.61889896"
+     x1="342.62222"
+     y1="50.07996"
+     x2="342.62222"
+     y2="311.76636"
+     id="line4128" />
+  <path
+     id="path4833"
+     d="m 85.839221,27.788161 0,8.722879 m -4.881806,-15.507341 0,15.507341 m -4.881806,-27.1378466 0,27.1378466 m -22.456311,-1.938418 12.204517,0 c 2.426532,0 4.393625,-1.952683 4.393625,-4.361439 0,-2.408757 -1.967093,-4.36144 -4.393625,-4.36144 l -7.810891,0 c -2.426532,0 -4.393626,-1.952684 -4.393626,-4.36144 0,-2.408756 1.967094,-4.36144 4.393626,-4.36144 l 12.204516,0 m -20.503587,4.846045 -10.739975,0 m 10.739975,12.599714 -1.952722,0 c -4.853066,0 -8.787253,-3.905366 -8.787253,-8.722879 l 0,-19.3841756 m -23.432672,38.7683516 0,-19.384176 c 0,-4.817514 3.934187,-8.72288 8.787253,-8.72288 4.853065,0 8.787252,3.905366 8.787252,8.72288 0,4.817513 -3.934187,8.722879 -8.787252,8.722879 l -8.787253,0"
+     style="fill:none;stroke:#000000;stroke-width:3.891114"
+     inkscape:connector-curvature="0" />
+  <line
+     id="line4835"
+     y2="311.76636"
+     x2="342.62222"
+     y1="50.07996"
+     x1="342.62222"
+     style="stroke:#949494;stroke-width:681.91772461;stroke-dasharray:14.59167745, 14.59167745" />
+  <g
+     id="g4837"
+     font-weight="bold"
+     font-size="8"
+     style="font-weight:bold;font-size:8px;text-anchor:end;fill:#065695"
+     transform="matrix(0.97636132,0,0,0.96920882,-0.08057483,-20.67228)">
+    <text
+       id="text4839"
+       y="84"
+       x="105"
+       style="fill:#065695">Processor</text>
+    <text
+       id="text4841"
+       y="99"
+       x="105"
+       style="fill:#065695">Motherboard</text>
+    <text
+       id="text4843"
+       y="114"
+       x="105"
+       style="fill:#065695">Chipset</text>
+    <text
+       id="text4845"
+       y="129"
+       x="105"
+       style="fill:#065695">Memory</text>
+    <text
+       id="text4847"
+       y="144"
+       x="105"
+       style="fill:#065695">Disk</text>
+    <text
+       id="text4849"
+       y="159"
+       x="105"
+       style="fill:#065695">Graphics</text>
+    <text
+       id="text4851"
+       y="174"
+       x="105"
+       style="fill:#065695">Audio</text>
+    <text
+       id="text4853"
+       y="189"
+       x="105"
+       style="fill:#065695">Monitor</text>
+    <text
+       id="text4855"
+       y="204"
+       x="105"
+       style="fill:#065695">Network</text>
+    <text
+       id="text4857"
+       y="219"
+       x="105"
+       style="fill:#065695">OS</text>
+    <text
+       id="text4859"
+       y="234"
+       x="105"
+       style="fill:#065695">Kernel</text>
+    <text
+       id="text4861"
+       y="249"
+       x="105"
+       style="fill:#065695">Display Server</text>
+    <text
+       id="text4863"
+       y="264"
+       x="105"
+       style="fill:#065695">Display Driver</text>
+    <text
+       id="text4865"
+       y="279"
+       x="105"
+       style="fill:#065695">OpenGL</text>
+    <text
+       id="text4867"
+       y="294"
+       x="105"
+       style="fill:#065695">Compiler</text>
+    <text
+       id="text4869"
+       y="309"
+       x="105"
+       style="fill:#065695">File-System</text>
+    <text
+       id="text4871"
+       y="324"
+       x="105"
+       style="fill:#065695">Screen Resolution</text>
+    <text
+       id="text4873"
+       y="339"
+       x="105"
+       style="fill:#065695">Desktop</text>
+  </g>
+  <g
+     id="g4875"
+     dominant-baseline="text-before-edge"
+     font-weight="bold"
+     font-size="8"
+     style="font-weight:bold;font-size:8px;text-anchor:middle;fill:#065695"
+     transform="matrix(0.97636132,0,0,0.96920882,-0.08057483,-20.67228)">
+    <text
+       id="text4877"
+       y="49"
+       x="156.5">TOSHIBA MQ01ABD1</text>
+    <text
+       id="text4879"
+       y="49"
+       x="255.5">vfat-fs-1</text>
+    <text
+       id="text4881"
+       y="49"
+       x="354.5">jfs-fs</text>
+    <text
+       id="text4883"
+       y="49"
+       x="453.5">test2</text>
+    <text
+       id="text4885"
+       y="49"
+       x="552.5">free-fs-mark</text>
+    <text
+       id="text4887"
+       y="49"
+       x="651.5">ext2-fs</text>
+  </g>
+  <g
+     id="g4889"
+     transform="matrix(0.97636132,0,0,0.96920882,-0.08057483,-20.67228)">
+    <rect
+       id="rect4891"
+       height="15"
+       width="594"
+       y="74"
+       x="107"
+       style="fill:#949494" />
+    <rect
+       id="rect4893"
+       height="15"
+       width="594"
+       y="89"
+       x="107"
+       style="fill:#bababa" />
+    <rect
+       id="rect4895"
+       height="15"
+       width="594"
+       y="104"
+       x="107"
+       style="fill:#949494" />
+    <rect
+       id="rect4897"
+       height="15"
+       width="594"
+       y="119"
+       x="107"
+       style="fill:#bababa" />
+    <rect
+       id="rect4899"
+       height="15"
+       width="594"
+       y="134"
+       x="107"
+       style="fill:#949494" />
+    <rect
+       id="rect4901"
+       height="15"
+       width="594"
+       y="149"
+       x="107"
+       style="fill:#bababa" />
+    <rect
+       id="rect4903"
+       height="15"
+       width="594"
+       y="164"
+       x="107"
+       style="fill:#949494" />
+    <rect
+       id="rect4905"
+       height="15"
+       width="594"
+       y="194"
+       x="107"
+       style="fill:#949494" />
+    <rect
+       id="rect4907"
+       height="15"
+       width="594"
+       y="209"
+       x="107"
+       style="fill:#bababa" />
+    <rect
+       id="rect4909"
+       height="15"
+       width="594"
+       y="224"
+       x="107"
+       style="fill:#949494" />
+    <rect
+       id="rect4911"
+       height="15"
+       width="594"
+       y="239"
+       x="107"
+       style="fill:#bababa" />
+    <rect
+       id="rect4913"
+       height="15"
+       width="594"
+       y="254"
+       x="107"
+       style="fill:#949494" />
+    <rect
+       id="rect4915"
+       height="15"
+       width="594"
+       y="269"
+       x="107"
+       style="fill:#bababa" />
+    <rect
+       id="rect4917"
+       height="15"
+       width="594"
+       y="284"
+       x="107"
+       style="fill:#949494" />
+    <rect
+       id="rect4919"
+       height="15"
+       width="594"
+       y="314"
+       x="107"
+       style="fill:#949494" />
+    <rect
+       id="rect4921"
+       height="15"
+       width="198"
+       y="179"
+       x="503"
+       style="fill:#bababa" />
+  </g>
+  <g
+     id="g4923"
+     font-size="8"
+     style="font-size:8px;text-anchor:middle"
+     transform="matrix(0.97636132,0,0,0.96920882,-0.08057483,-20.67228)">
+    <a
+       id="a4925"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/Intel Core i7-3770 @ 3.90GHz (8 Cores)">
+      <text
+         id="text4927"
+         y="85"
+         x="404"
+         style="fill:#065695">Intel Core i7-3770 @ 3.90GHz (8 Cores)</text>
+    </a>
+    <a
+       id="a4929"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/ASRock H61M-VG3">
+      <text
+         id="text4931"
+         y="100"
+         x="404"
+         style="fill:#065695">ASRock H61M-VG3</text>
+    </a>
+    <a
+       id="a4933"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/Intel Xeon E3-1200 v2/3rd">
+      <text
+         id="text4935"
+         y="115"
+         x="404"
+         style="fill:#065695">Intel Xeon E3-1200 v2/3rd</text>
+    </a>
+    <a
+       id="a4937"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/16384MB">
+      <text
+         id="text4939"
+         y="130"
+         x="404"
+         style="fill:#065695">16384MB</text>
+    </a>
+    <a
+       id="a4941"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/1000GB TOSHIBA MQ01ABD1 + 1000GB Western Digital WD1002FBYS-1 + 160GB Western Digital WD1600BEVT-7">
+      <text
+         id="text4943"
+         y="145"
+         x="404"
+         style="fill:#065695">1000GB TOSHIBA MQ01ABD1 + 1000GB Western Digital WD1002FBYS-1 + 160GB Western Digital WD1600BEVT-7</text>
+    </a>
+    <a
+       id="a4945"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/Intel HD 4000 (1150MHz)">
+      <text
+         id="text4947"
+         y="160"
+         x="404"
+         style="fill:#065695">Intel HD 4000 (1150MHz)</text>
+    </a>
+    <a
+       id="a4949"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/Intel 6 /C200">
+      <text
+         id="text4951"
+         y="175"
+         x="404"
+         style="fill:#065695">Intel 6 /C200</text>
+    </a>
+    <a
+       id="a4953"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/HP w1907">
+      <text
+         id="text4955"
+         y="190"
+         x="156.5"
+         style="fill:#065695">HP w1907</text>
+    </a>
+    <a
+       id="a4957"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/Realtek RTL8111/8168/8411">
+      <text
+         id="text4959"
+         y="205"
+         x="404"
+         style="fill:#065695">Realtek RTL8111/8168/8411</text>
+    </a>
+    <a
+       id="a4961"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/Gentoo 2.2">
+      <text
+         id="text4963"
+         y="220"
+         x="404"
+         style="fill:#065695">Gentoo 2.2</text>
+    </a>
+    <a
+       id="a4965"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/3.18.25-gentoo-r1linux-chara (x86_64)">
+      <text
+         id="text4967"
+         y="235"
+         x="404"
+         style="fill:#065695">3.18.25-gentoo-r1linux-chara (x86_64)</text>
+    </a>
+    <a
+       id="a4969"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/X Server 1.17.4">
+      <text
+         id="text4971"
+         y="250"
+         x="404"
+         style="fill:#065695">X Server 1.17.4</text>
+    </a>
+    <a
+       id="a4973"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/intel 2.99.917">
+      <text
+         id="text4975"
+         y="265"
+         x="404"
+         style="fill:#065695">intel 2.99.917</text>
+    </a>
+    <a
+       id="a4977"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/3.3 Mesa 11.0.6">
+      <text
+         id="text4979"
+         y="280"
+         x="404"
+         style="fill:#065695">3.3 Mesa 11.0.6</text>
+    </a>
+    <a
+       id="a4981"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/GCC 4.9.3 + LLVM 3.5.0">
+      <text
+         id="text4983"
+         y="295"
+         x="404"
+         style="fill:#065695">GCC 4.9.3 + LLVM 3.5.0</text>
+    </a>
+    <a
+       id="a4985"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/f2fs">
+      <text
+         id="text4987"
+         y="310"
+         x="156.5"
+         style="fill:#065695">f2fs</text>
+    </a>
+    <a
+       id="a4989"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/1440x900">
+      <text
+         id="text4991"
+         y="325"
+         x="404"
+         style="fill:#065695">1440x900</text>
+    </a>
+    <a
+       id="a4993"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/msdos">
+      <text
+         id="text4995"
+         y="310"
+         x="255.5"
+         style="fill:#065695">msdos</text>
+    </a>
+    <a
+       id="a4997"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/HP w1907">
+      <text
+         id="text4999"
+         y="190"
+         x="354.5"
+         style="fill:#065695">HP w1907</text>
+    </a>
+    <a
+       id="a5001"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/jfs">
+      <text
+         id="text5003"
+         y="310"
+         x="354.5"
+         style="fill:#065695">jfs</text>
+    </a>
+    <a
+       id="a5005"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/KDE 4.14.16">
+      <text
+         id="text5007"
+         y="340"
+         x="453.5"
+         style="fill:#065695">KDE 4.14.16</text>
+    </a>
+    <a
+       id="a5009"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/xfs">
+      <text
+         id="text5011"
+         y="310"
+         x="453.5"
+         style="fill:#065695">xfs</text>
+    </a>
+    <a
+       id="a5013"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/HP w1907">
+      <text
+         id="text5015"
+         y="190"
+         x="602"
+         style="fill:#005a00">HP w1907</text>
+    </a>
+    <a
+       id="a5017"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/tmpfs">
+      <text
+         id="text5019"
+         y="310"
+         x="552.5"
+         style="fill:#065695">tmpfs</text>
+    </a>
+    <a
+       id="a5021"
+       xlink:show="new"
+       xlink:href="http://openbenchmarking.org/s/ext4">
+      <text
+         id="text5023"
+         y="310"
+         x="651.5"
+         style="fill:#065695">ext4</text>
+    </a>
+  </g>
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.45436668px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="rect5860"
+     width="683.08691"
+     height="311.0162"
+     x="2.3131599"
+     y="1.7271833" />
+</svg>
